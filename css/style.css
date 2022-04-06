@@ -31,19 +31,19 @@
 }
 @font-face {
     font-family: Bebas Neue Cyrillic;
-    src: url(fonts/bebasneuecyrillic.ttf);
+    src: url(../fonts/bebasneuecyrillic.ttf);
 }
 @font-face {
     font-family: RR;
-    src: url(fonts/Roboto-Regular.ttf);
+    src: url(../fonts/Roboto-Regular.ttf);
 }
 @font-face {
     font-family: RB;
-    src: url(fonts/Roboto-Black.ttf);
+    src: url(../fonts/Roboto-Black.ttf);
 }
 @font-face {
     font-family: HF;
-    src: url(fonts/Hack-Regular.ttf);
+    src: url(../fonts/Hack-Regular.ttf);
 }
 .pageStyleYb a{
     text-decoration: none;
@@ -77,11 +77,11 @@
 .logo{
     width: 300px;
     height: 150px;
-    background-image: url(img/logoPreview.png);
+    background-image: url(../img/logoPreview.png);
     transition-duration: 0.3s;
 }
 .logo:hover{
-    background-image: url(img/logoPreviewHover.png);
+    background-image: url(../img/logoPreviewHover.png);
     transition-duration: 0.3s;
 }
 .content1{
@@ -405,7 +405,7 @@ td {
     padding: 10px;
     cursor: pointer;
     border: none;
-    background-image: url(img/EmpyLookLine.png);
+    background-image: url(../img/EmpyLookLine.png);
     background-size: 10px 50px;
     background-position: 110px;
     background-repeat: repeat-y;
@@ -416,10 +416,10 @@ td {
 }
 .tittleBtnBlg:hover{
     width: 130px;
-    background-image: url(img/LookLine.png);
+    background-image: url(../img/LookLine.png);
 }
 .tittleBtnBlg:active{
-    background-image: url(img/lookLineActv.png);
+    background-image: url(../img/lookLineActv.png);
 }
 .barBlg{
     width: 100%;
@@ -470,7 +470,7 @@ td {
     background-color: rgb(0, 15, 63);
     font-family: RR;
     color: white;
-    background-image: url(img/stars.png);
+    background-image: url(../img/stars.png);
     background-size: 500px 500px;
 }
 .contBlg2 h1{
