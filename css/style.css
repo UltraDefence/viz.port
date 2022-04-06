@@ -77,11 +77,11 @@
 .logo{
     width: 300px;
     height: 150px;
-    background-image: url(../img/logoPreview.png);
+    background-image: url(img/logoPreview.png);
     transition-duration: 0.3s;
 }
 .logo:hover{
-    background-image: url(../img/logoPreviewHover.png);
+    background-image: url(img/logoPreviewHover.png);
     transition-duration: 0.3s;
 }
 .content1{
