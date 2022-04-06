@@ -31,19 +31,19 @@
 }
 @font-face {
     font-family: Bebas Neue Cyrillic;
-    src: url(../fonts/bebasneuecyrillic.ttf);
+    src: url(fonts/bebasneuecyrillic.ttf);
 }
 @font-face {
     font-family: RR;
-    src: url(../fonts/Roboto-Regular.ttf);
+    src: url(fonts/Roboto-Regular.ttf);
 }
 @font-face {
     font-family: RB;
-    src: url(../fonts/Roboto-Black.ttf);
+    src: url(fonts/Roboto-Black.ttf);
 }
 @font-face {
     font-family: HF;
-    src: url(../fonts/Hack-Regular.ttf);
+    src: url(fonts/Hack-Regular.ttf);
 }
 .pageStyleYb a{
     text-decoration: none;
