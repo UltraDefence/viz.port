@@ -25,15 +25,15 @@ function rightT(){
 }
 function C$A$S$E(){
     switch(current){
-        case 1: document.getElementById('previewimg').setAttribute("src","../img/1.jpg");
+        case 1: document.getElementById('previewimg').setAttribute("src","img/1.jpg");
         break;
-        case 2: document.getElementById('previewimg').setAttribute("src","../img/2.jpg");
+        case 2: document.getElementById('previewimg').setAttribute("src","img/2.jpg");
         break;
-        case 3: document.getElementById('previewimg').setAttribute("src","../img/3.jpg");
+        case 3: document.getElementById('previewimg').setAttribute("src","img/3.jpg");
         break;
-        case 4: document.getElementById('previewimg').setAttribute("src","../img/4.jpg");
+        case 4: document.getElementById('previewimg').setAttribute("src","img/4.jpg");
         break;
-        case 5: document.getElementById('previewimg').setAttribute("src","../img/5.jpg");
+        case 5: document.getElementById('previewimg').setAttribute("src","img/5.jpg");
         break;
     }
 }
