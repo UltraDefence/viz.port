@@ -405,7 +405,7 @@ td {
     padding: 10px;
     cursor: pointer;
     border: none;
-    background-image: url(../img/EmpyLookLine.png);
+    background-image: url(img/EmpyLookLine.png);
     background-size: 10px 50px;
     background-position: 110px;
     background-repeat: repeat-y;
@@ -416,10 +416,10 @@ td {
 }
 .tittleBtnBlg:hover{
     width: 130px;
-    background-image: url(../img/LookLine.png);
+    background-image: url(img/LookLine.png);
 }
 .tittleBtnBlg:active{
-    background-image: url(../img/lookLineActv.png);
+    background-image: url(img/lookLineActv.png);
 }
 .barBlg{
     width: 100%;
